@@ -1,3 +1,4 @@
-# 10tund
-10. tunnis tehtud näide
-Videopraktikum: https://www.youtube.com/watch?v=clSeNEyLpRE
+# 8tund
+8. tunnis tehtud näide. 
+
+Video: https://youtu.be/WK_I047xHyg
