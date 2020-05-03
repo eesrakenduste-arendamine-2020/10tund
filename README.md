@@ -1,4 +1,4 @@
-# 8tund
-8. tunnis tehtud näide. 
+# 10tund
+10. tunnis tehtud näide. 
 
-Video: https://youtu.be/WK_I047xHyg
+Video: https://youtu.be/clSeNEyLpRE
